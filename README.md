@@ -1,6 +1,5 @@
 👨‍💻 Currently learning:
 - Laravel & Tailwind CSS
-- xCode & SwiftUI
 - React & Vue
 
 Contact: droip334@gmail.com
